@@ -1,1 +1,30 @@
-{}
+{
+  "commands": [],
+  "products": [
+    {
+      "name": "Bot Discord",
+      "price": 10
+    },
+    {
+      "name": "Mini site web",
+      "price": 15
+    },
+    {
+      "name": "Logo personnalisé",
+      "price": 5
+    }
+  ],
+  "packs": [
+    {
+      "name": "Pack Starter",
+      "price": 20,
+      "description": "1 bot + 1 logo"
+    },
+    {
+      "name": "Pack Pro",
+      "price": 40,
+      "description": "1 bot + 1 site + 1 logo + support prioritaire"
+    }
+  ],
+  "subscriptions": {}
+}
